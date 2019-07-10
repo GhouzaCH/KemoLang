@@ -1,6 +1,6 @@
 # KemoLang
-[title_en](https://download2260.mediafire.com/h5eb58gtfkig/6kdxgc9z7ge2xhl/title_en_transparent.png)
-[title_jp](https://download849.mediafire.com/w1wbqs13mo4g/d7ctndtwnqwv3kv/title_jp_transparent.png)
+![title_en](https://download2260.mediafire.com/h5eb58gtfkig/6kdxgc9z7ge2xhl/title_en_transparent.png)
+![title_jp](https://download849.mediafire.com/w1wbqs13mo4g/d7ctndtwnqwv3kv/title_jp_transparent.png)
 Pythonで作った試作の自作プログラミング言語
 ## けもラング1部の命令完成
 ### 命令一覧
