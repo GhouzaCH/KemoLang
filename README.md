@@ -35,8 +35,9 @@ if 2=1<br>
 
 ### お問い合わせ
 #### Twitter
-@FurchtTokets968<br>
+@Furcht2968<br>
 のDMでお問い合わせをするか。<br>
 ＃フルットル ＃けもラング の2つのタグでお問い合わせください。
 #### LINE
-今んところはないです。
+解放致します。<br>
+https://line.me/ti/p/cq4jpm-L3Q<br>
